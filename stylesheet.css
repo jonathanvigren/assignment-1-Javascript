@@ -1,0 +1,58 @@
+.neutralborder{
+    border-color:#a76d60;
+    border-width: 3px;
+    height:42px;
+}
+
+.formfield{
+    background:#a76d60;
+    height:42px;
+    border-width:3px;
+    border-color:#a76d60;  
+    max-width: 40px;
+}
+
+.fa{
+    color:white;
+    height:15px;
+    text-align:center;
+}
+
+.btn:disabled{
+    border-color:#683f3763;
+}
+
+.btn:disabled:hover{
+    background-color:#683f3763;
+    border-color:#7e564d00;
+}
+
+.btn{
+    border-color:#a76d60;
+    border-width: 3px;
+    height:42px;
+    color:rgb(196, 196, 196);
+    transition: all 1s ease-in-out;
+}
+
+.btn:hover{
+    background-color:#a76d60;
+    color:rgb(231, 231, 231);
+}
+
+.feedback{
+    background:#d4edda;
+    padding-top:12px;
+    padding-bottom:12px;
+    border-radius:4px;
+    
+}
+
+.hidden{
+    display:none;
+}
+
+.card{
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
